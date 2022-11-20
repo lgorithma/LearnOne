@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "546198088838",
+    "project_id": "learnone-85880",
+    "storage_bucket": "learnone-85880.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546198088838:android:e20f5ebc1b5a101b8d3507",
+        "android_client_info": {
+          "package_name": "com.flutterflow.homeU"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546198088838-bsohfkqlve8rtnpsa3jeheup47l0prql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1OaY0T2kW9PSLbPXSbMgWEqaGKBAfZRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546198088838-bsohfkqlve8rtnpsa3jeheup47l0prql.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "546198088838-8outpn7rmri7bl1glud0nk5folbg0ndj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.homeU"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
